@@ -1,7 +1,7 @@
 # An MDI using TabControl Extension with Close Button
 ![Screenshot](http://www.stresstimulus.com/image/mdi.png)
 <h2>Introduction</h2>
-I work on a team developing a .NET WinForm application. In the new version, 
+I work on a team developing a .NET WinForm application. In the new version of our load testing tool <a href="http://www.stresstimulus.com/">StresStimulus</a>, 
 we needed to add a Multi Document Interface (MDI). The requirement was that 
 users should be able to easily open and close multiple tabs attached to various 
 documents.<br><br>
