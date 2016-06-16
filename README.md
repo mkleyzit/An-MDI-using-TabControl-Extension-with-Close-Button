@@ -1,5 +1,5 @@
-# An-MDI-using-TabControl-Extension-with-Close-Button
-
+# An MDI using TabControl Extension with Close Button
+![Screenshot](http://www.stresstimulus.com/image/mdi.png)
 <h2>Introduction</h2>
 I work on a team developing a .NET WinForm application. In the new version, 
 we needed to add a Multi Document Interface (MDI). The requirement was that 
